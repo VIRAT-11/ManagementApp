@@ -1,0 +1,29 @@
+{
+    "students": [
+        {
+            "name": "Akarsh",
+            "age": 24,
+            "email": "akarshvyas@gmail.com",
+            "roll_no": "1",
+            "grades": {
+                "Maths": 90.0
+            }
+        },
+        {
+            "name": "Harsh",
+            "age": 23,
+            "email": "harsh@gmail.com",
+            "roll_no": "2",
+            "grades": {}
+        }
+    ],
+    "teachers": [
+        {
+            "name": "harsh bhaiya",
+            "age": 25,
+            "email": "harsh@gmail.com",
+            "subject": "Maths",
+            "emp_id": "1"
+        }
+    ]
+}
