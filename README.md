@@ -4,7 +4,7 @@
 
 It provides a web-based interface for managing students, teachers, and student grades. The application stores data locally using a JSON file.
 
-This is my **first Python project**, created to apply the Python and Object-Oriented Programming concepts I learned in a practical application.
+This is my **first Python project**, created to apply the Python and Object-Oriented Programming concepts I learned in a practical application..
 
 ## ✨ Features
 
